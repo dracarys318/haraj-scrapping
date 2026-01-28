@@ -1,0 +1,4081 @@
+[
+  {
+    "haraj_main_category_path": {
+      "name": "حراج السيارات",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "تويوتا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "لاندكروزر"
+            },
+            {
+              "haraj_child_tags_level_2": "كامري"
+            },
+            {
+              "haraj_child_tags_level_2": "افالون"
+            },
+            {
+              "haraj_child_tags_level_2": "هايلوكس"
+            },
+            {
+              "haraj_child_tags_level_2": "كورولا"
+            },
+            {
+              "haraj_child_tags_level_2": "اف جي"
+            },
+            {
+              "haraj_child_tags_level_2": "ربع"
+            },
+            {
+              "haraj_child_tags_level_2": "شاص"
+            },
+            {
+              "haraj_child_tags_level_2": "يارس"
+            },
+            {
+              "haraj_child_tags_level_2": "برادو"
+            },
+            {
+              "haraj_child_tags_level_2": "فورتونر"
+            },
+            {
+              "haraj_child_tags_level_2": "اوريون"
+            },
+            {
+              "haraj_child_tags_level_2": "كرسيدا"
+            },
+            {
+              "haraj_child_tags_level_2": "ساكويا"
+            },
+            {
+              "haraj_child_tags_level_2": "باص"
+            },
+            {
+              "haraj_child_tags_level_2": "اينوفا"
+            },
+            {
+              "haraj_child_tags_level_2": "راف فور"
+            },
+            {
+              "haraj_child_tags_level_2": "XA"
+            },
+            {
+              "haraj_child_tags_level_2": "ايكو"
+            },
+            {
+              "haraj_child_tags_level_2": "تندرا"
+            },
+            {
+              "haraj_child_tags_level_2": "بريفيا"
+            },
+            {
+              "haraj_child_tags_level_2": "سوبرا"
+            },
+            {
+              "haraj_child_tags_level_2": "تويوتا 86"
+            },
+            {
+              "haraj_child_tags_level_2": "افانزا"
+            },
+            {
+              "haraj_child_tags_level_2": "هايلاندر"
+            },
+            {
+              "haraj_child_tags_level_2": "بريوس"
+            },
+            {
+              "haraj_child_tags_level_2": "راش"
+            },
+            {
+              "haraj_child_tags_level_2": "جرانفيا"
+            },
+            {
+              "haraj_child_tags_level_2": "C-HR"
+            },
+            {
+              "haraj_child_tags_level_2": "كورولا كروس"
+            },
+            {
+              "haraj_child_tags_level_2": "رايز"
+            },
+            {
+              "haraj_child_tags_level_2": "فيلوز"
+            },
+            {
+              "haraj_child_tags_level_2": "كراون"
+            },
+            {
+              "haraj_child_tags_level_2": "اوربان كروزر"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فورد",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كراون فكتوريا"
+            },
+            {
+              "haraj_child_tags_level_2": "جراند ماركيز"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسبلورر"
+            },
+            {
+              "haraj_child_tags_level_2": "توروس"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسبيدشن"
+            },
+            {
+              "haraj_child_tags_level_2": "موستنج"
+            },
+            {
+              "haraj_child_tags_level_2": "ايدج"
+            },
+            {
+              "haraj_child_tags_level_2": "f150"
+            },
+            {
+              "haraj_child_tags_level_2": "فيوجن"
+            },
+            {
+              "haraj_child_tags_level_2": "وندستار"
+            },
+            {
+              "haraj_child_tags_level_2": "فلكس"
+            },
+            {
+              "haraj_child_tags_level_2": "فوكس"
+            },
+            {
+              "haraj_child_tags_level_2": "مونديو"
+            },
+            {
+              "haraj_child_tags_level_2": "f250"
+            },
+            {
+              "haraj_child_tags_level_2": "f350"
+            },
+            {
+              "haraj_child_tags_level_2": "رينجر"
+            },
+            {
+              "haraj_child_tags_level_2": "اكس كورجن"
+            },
+            {
+              "haraj_child_tags_level_2": "بيك اب"
+            },
+            {
+              "haraj_child_tags_level_2": "اسكيب"
+            },
+            {
+              "haraj_child_tags_level_2": "سبلاش"
+            },
+            {
+              "haraj_child_tags_level_2": "كوجر"
+            },
+            {
+              "haraj_child_tags_level_2": "ثندريبرد"
+            },
+            {
+              "haraj_child_tags_level_2": "F450"
+            },
+            {
+              "haraj_child_tags_level_2": "F550"
+            },
+            {
+              "haraj_child_tags_level_2": "إسكورت"
+            },
+            {
+              "haraj_child_tags_level_2": "إيكوسبورت"
+            },
+            {
+              "haraj_child_tags_level_2": "فان فورد"
+            },
+            {
+              "haraj_child_tags_level_2": "فيجو"
+            },
+            {
+              "haraj_child_tags_level_2": "برونكو"
+            },
+            {
+              "haraj_child_tags_level_2": "تيريتوري"
+            },
+            {
+              "haraj_child_tags_level_2": "ايفرست"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "شيفروليه",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كابريس"
+            },
+            {
+              "haraj_child_tags_level_2": "تاهو"
+            },
+            {
+              "haraj_child_tags_level_2": "سوبربان"
+            },
+            {
+              "haraj_child_tags_level_2": "لومينا"
+            },
+            {
+              "haraj_child_tags_level_2": "سلفرادو"
+            },
+            {
+              "haraj_child_tags_level_2": "كمارو"
+            },
+            {
+              "haraj_child_tags_level_2": "بليزر"
+            },
+            {
+              "haraj_child_tags_level_2": "ابيكا"
+            },
+            {
+              "haraj_child_tags_level_2": "ماليبو"
+            },
+            {
+              "haraj_child_tags_level_2": "افيو"
+            },
+            {
+              "haraj_child_tags_level_2": "كروز"
+            },
+            {
+              "haraj_child_tags_level_2": "اوبترا"
+            },
+            {
+              "haraj_child_tags_level_2": "تريل بليزر"
+            },
+            {
+              "haraj_child_tags_level_2": "افلانش"
+            },
+            {
+              "haraj_child_tags_level_2": "كورفيت"
+            },
+            {
+              "haraj_child_tags_level_2": "فان"
+            },
+            {
+              "haraj_child_tags_level_2": "امبالا"
+            },
+            {
+              "haraj_child_tags_level_2": "ترافيرس"
+            },
+            {
+              "haraj_child_tags_level_2": "ابلاندر"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسبرس فان"
+            },
+            {
+              "haraj_child_tags_level_2": "فنشر"
+            },
+            {
+              "haraj_child_tags_level_2": "كابتيفا"
+            },
+            {
+              "haraj_child_tags_level_2": "استروفان"
+            },
+            {
+              "haraj_child_tags_level_2": "سونيك"
+            },
+            {
+              "haraj_child_tags_level_2": "سبارك"
+            },
+            {
+              "haraj_child_tags_level_2": "كرفان"
+            },
+            {
+              "haraj_child_tags_level_2": "كافالير"
+            },
+            {
+              "haraj_child_tags_level_2": "كولورادو"
+            },
+            {
+              "haraj_child_tags_level_2": "جي فان"
+            },
+            {
+              "haraj_child_tags_level_2": "اكوينوكس"
+            },
+            {
+              "haraj_child_tags_level_2": "بولت"
+            },
+            {
+              "haraj_child_tags_level_2": "جروف"
+            },
+            {
+              "haraj_child_tags_level_2": "تراكس"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "قطع غيار وملحقات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "قطع غيار"
+            },
+            {
+              "haraj_child_tags_level_2": "جنوط"
+            },
+            {
+              "haraj_child_tags_level_2": "لوحة مميزه"
+            },
+            {
+              "haraj_child_tags_level_2": "خدمات فحص السيارات"
+            },
+            {
+              "haraj_child_tags_level_2": "شاشه"
+            },
+            {
+              "haraj_child_tags_level_2": "مسجل"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "نيسان",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "باترول"
+            },
+            {
+              "haraj_child_tags_level_2": "ددسن"
+            },
+            {
+              "haraj_child_tags_level_2": "التيما"
+            },
+            {
+              "haraj_child_tags_level_2": "مكسيما"
+            },
+            {
+              "haraj_child_tags_level_2": "باثفندر"
+            },
+            {
+              "haraj_child_tags_level_2": "صني"
+            },
+            {
+              "haraj_child_tags_level_2": "ارمادا"
+            },
+            {
+              "haraj_child_tags_level_2": "اكستيرا"
+            },
+            {
+              "haraj_child_tags_level_2": "فئة Z"
+            },
+            {
+              "haraj_child_tags_level_2": "نيسان شاص"
+            },
+            {
+              "haraj_child_tags_level_2": "نافارا"
+            },
+            {
+              "haraj_child_tags_level_2": "مورانو"
+            },
+            {
+              "haraj_child_tags_level_2": "تيدا"
+            },
+            {
+              "haraj_child_tags_level_2": "اورفان"
+            },
+            {
+              "haraj_child_tags_level_2": "سكاي لاين"
+            },
+            {
+              "haraj_child_tags_level_2": "سنترا"
+            },
+            {
+              "haraj_child_tags_level_2": "اكس تريل"
+            },
+            {
+              "haraj_child_tags_level_2": "جلوريا"
+            },
+            {
+              "haraj_child_tags_level_2": "بريميرا"
+            },
+            {
+              "haraj_child_tags_level_2": "تيرانو"
+            },
+            {
+              "haraj_child_tags_level_2": "قاشقاي"
+            },
+            {
+              "haraj_child_tags_level_2": "جوك"
+            },
+            {
+              "haraj_child_tags_level_2": "كيكس"
+            },
+            {
+              "haraj_child_tags_level_2": "370Z"
+            },
+            {
+              "haraj_child_tags_level_2": "GTR"
+            },
+            {
+              "haraj_child_tags_level_2": "سليفيان"
+            },
+            {
+              "haraj_child_tags_level_2": "باترول سفاري"
+            },
+            {
+              "haraj_child_tags_level_2": "سيدرك"
+            },
+            {
+              "haraj_child_tags_level_2": "باترول نيسمو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "هونداي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "سوناتا"
+            },
+            {
+              "haraj_child_tags_level_2": "النترا"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسنت"
+            },
+            {
+              "haraj_child_tags_level_2": "ازيرا"
+            },
+            {
+              "haraj_child_tags_level_2": "هونداي H1"
+            },
+            {
+              "haraj_child_tags_level_2": "سنتافي"
+            },
+            {
+              "haraj_child_tags_level_2": "تسكان"
+            },
+            {
+              "haraj_child_tags_level_2": "فيلوستر"
+            },
+            {
+              "haraj_child_tags_level_2": "تراجيت"
+            },
+            {
+              "haraj_child_tags_level_2": "i40"
+            },
+            {
+              "haraj_child_tags_level_2": "سنتنيال"
+            },
+            {
+              "haraj_child_tags_level_2": "كوبية"
+            },
+            {
+              "haraj_child_tags_level_2": "i10"
+            },
+            {
+              "haraj_child_tags_level_2": "فيراكروز"
+            },
+            {
+              "haraj_child_tags_level_2": "تيريكان"
+            },
+            {
+              "haraj_child_tags_level_2": "ماتريكس"
+            },
+            {
+              "haraj_child_tags_level_2": "جالوير"
+            },
+            {
+              "haraj_child_tags_level_2": "كونا"
+            },
+            {
+              "haraj_child_tags_level_2": "كريتا"
+            },
+            {
+              "haraj_child_tags_level_2": "باليسيد"
+            },
+            {
+              "haraj_child_tags_level_2": "جراند سنتافي"
+            },
+            {
+              "haraj_child_tags_level_2": "i30"
+            },
+            {
+              "haraj_child_tags_level_2": "فينيو"
+            },
+            {
+              "haraj_child_tags_level_2": "ستاريا"
+            },
+            {
+              "haraj_child_tags_level_2": "ستارجيزر"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جنسس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "G70"
+            },
+            {
+              "haraj_child_tags_level_2": "G80"
+            },
+            {
+              "haraj_child_tags_level_2": "G90"
+            },
+            {
+              "haraj_child_tags_level_2": "GV80"
+            },
+            {
+              "haraj_child_tags_level_2": "GV70"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لكزس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "LS"
+            },
+            {
+              "haraj_child_tags_level_2": "LX"
+            },
+            {
+              "haraj_child_tags_level_2": "ES"
+            },
+            {
+              "haraj_child_tags_level_2": "GS"
+            },
+            {
+              "haraj_child_tags_level_2": "IS"
+            },
+            {
+              "haraj_child_tags_level_2": "RX"
+            },
+            {
+              "haraj_child_tags_level_2": "GX"
+            },
+            {
+              "haraj_child_tags_level_2": "SC"
+            },
+            {
+              "haraj_child_tags_level_2": "NX"
+            },
+            {
+              "haraj_child_tags_level_2": "LC"
+            },
+            {
+              "haraj_child_tags_level_2": "RC"
+            },
+            {
+              "haraj_child_tags_level_2": "RCF"
+            },
+            {
+              "haraj_child_tags_level_2": "UX"
+            },
+            {
+              "haraj_child_tags_level_2": "GSF"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جي ام سي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "يوكن"
+            },
+            {
+              "haraj_child_tags_level_2": "سوبربان"
+            },
+            {
+              "haraj_child_tags_level_2": "سييرا"
+            },
+            {
+              "haraj_child_tags_level_2": "بيك أب"
+            },
+            {
+              "haraj_child_tags_level_2": "انفوي"
+            },
+            {
+              "haraj_child_tags_level_2": "اكاديا"
+            },
+            {
+              "haraj_child_tags_level_2": "فان"
+            },
+            {
+              "haraj_child_tags_level_2": "سافانا"
+            },
+            {
+              "haraj_child_tags_level_2": "سفاري"
+            },
+            {
+              "haraj_child_tags_level_2": "تيرين"
+            },
+            {
+              "haraj_child_tags_level_2": "جيمي"
+            },
+            {
+              "haraj_child_tags_level_2": "كانيون"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "شاحنات ومعدات ثقيلة",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "شاحنة مرسيدس"
+            },
+            {
+              "haraj_child_tags_level_2": "معدات ثقيلة"
+            },
+            {
+              "haraj_child_tags_level_2": "قلاب"
+            },
+            {
+              "haraj_child_tags_level_2": "شيول"
+            },
+            {
+              "haraj_child_tags_level_2": "سطحه"
+            },
+            {
+              "haraj_child_tags_level_2": "شاحنة فولفو"
+            },
+            {
+              "haraj_child_tags_level_2": "شاحنة مان"
+            },
+            {
+              "haraj_child_tags_level_2": "معدات زراعية"
+            },
+            {
+              "haraj_child_tags_level_2": "كارافان"
+            },
+            {
+              "haraj_child_tags_level_2": "رافعة"
+            },
+            {
+              "haraj_child_tags_level_2": "بلدوزر"
+            },
+            {
+              "haraj_child_tags_level_2": "كرين"
+            },
+            {
+              "haraj_child_tags_level_2": "كسارة"
+            },
+            {
+              "haraj_child_tags_level_2": "شاحنة سكانيا"
+            },
+            {
+              "haraj_child_tags_level_2": "بوكلين"
+            },
+            {
+              "haraj_child_tags_level_2": "شاحنة هينو"
+            },
+            {
+              "haraj_child_tags_level_2": "فود ترك"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "مرسيدس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "S"
+            },
+            {
+              "haraj_child_tags_level_2": "E"
+            },
+            {
+              "haraj_child_tags_level_2": "SE"
+            },
+            {
+              "haraj_child_tags_level_2": "SEL"
+            },
+            {
+              "haraj_child_tags_level_2": "AMG"
+            },
+            {
+              "haraj_child_tags_level_2": "مرسيدس G"
+            },
+            {
+              "haraj_child_tags_level_2": "C"
+            },
+            {
+              "haraj_child_tags_level_2": "SL"
+            },
+            {
+              "haraj_child_tags_level_2": "CLS"
+            },
+            {
+              "haraj_child_tags_level_2": "ML"
+            },
+            {
+              "haraj_child_tags_level_2": "CL"
+            },
+            {
+              "haraj_child_tags_level_2": "CLK"
+            },
+            {
+              "haraj_child_tags_level_2": "SEC"
+            },
+            {
+              "haraj_child_tags_level_2": "SLK"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة A"
+            },
+            {
+              "haraj_child_tags_level_2": "GLS"
+            },
+            {
+              "haraj_child_tags_level_2": "GLE"
+            },
+            {
+              "haraj_child_tags_level_2": "GLC"
+            },
+            {
+              "haraj_child_tags_level_2": "GLA"
+            },
+            {
+              "haraj_child_tags_level_2": "CLA"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة V"
+            },
+            {
+              "haraj_child_tags_level_2": "B"
+            },
+            {
+              "haraj_child_tags_level_2": "GL"
+            },
+            {
+              "haraj_child_tags_level_2": "GLK"
+            },
+            {
+              "haraj_child_tags_level_2": "GT مرسيدس"
+            },
+            {
+              "haraj_child_tags_level_2": "GTS"
+            },
+            {
+              "haraj_child_tags_level_2": "R"
+            },
+            {
+              "haraj_child_tags_level_2": "SLC"
+            },
+            {
+              "haraj_child_tags_level_2": "فان سبرنتر"
+            },
+            {
+              "haraj_child_tags_level_2": "مايباخ"
+            },
+            {
+              "haraj_child_tags_level_2": "GLB"
+            },
+            {
+              "haraj_child_tags_level_2": "EQA"
+            },
+            {
+              "haraj_child_tags_level_2": "EQB"
+            },
+            {
+              "haraj_child_tags_level_2": "EQE"
+            },
+            {
+              "haraj_child_tags_level_2": "EQS"
+            },
+            {
+              "haraj_child_tags_level_2": "مرسيدس CLE"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "هوندا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اكورد"
+            },
+            {
+              "haraj_child_tags_level_2": "سيفيك"
+            },
+            {
+              "haraj_child_tags_level_2": "اوديسي"
+            },
+            {
+              "haraj_child_tags_level_2": "CRV"
+            },
+            {
+              "haraj_child_tags_level_2": "بايلوت"
+            },
+            {
+              "haraj_child_tags_level_2": "سيتي"
+            },
+            {
+              "haraj_child_tags_level_2": "ليجيند"
+            },
+            {
+              "haraj_child_tags_level_2": "بريليود"
+            },
+            {
+              "haraj_child_tags_level_2": "انتيجرا"
+            },
+            {
+              "haraj_child_tags_level_2": "HRV"
+            },
+            {
+              "haraj_child_tags_level_2": "ZRV"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بي ام دبليو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "الفئة السابعة"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الخامسة"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة X"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الثالثة"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة السادسة"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الأولى"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة M"
+            },
+            {
+              "haraj_child_tags_level_2": "ميني كوبر"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة Z"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة i"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الثامنة"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الثانية"
+            },
+            {
+              "haraj_child_tags_level_2": "الفئة الرابعة"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "دبابات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "دباب سوزوكي"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب ياماها"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب صيني"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب هوندا"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب هارلي"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب رام"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب كوزاكي"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب بحري"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب BMW"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب KTM"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب انديان"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب بقي"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب بولاريس"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب كانام"
+            },
+            {
+              "haraj_child_tags_level_2": "كارتنج"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب هاوجو"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب دوكاتي"
+            },
+            {
+              "haraj_child_tags_level_2": "دباب سي اف موتو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "كيا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اوبتيما"
+            },
+            {
+              "haraj_child_tags_level_2": "سيراتو"
+            },
+            {
+              "haraj_child_tags_level_2": "ريو"
+            },
+            {
+              "haraj_child_tags_level_2": "كارنيفال"
+            },
+            {
+              "haraj_child_tags_level_2": "سبورتاج"
+            },
+            {
+              "haraj_child_tags_level_2": "كادينزا"
+            },
+            {
+              "haraj_child_tags_level_2": "اوبيروس"
+            },
+            {
+              "haraj_child_tags_level_2": "سورنتو"
+            },
+            {
+              "haraj_child_tags_level_2": "كارينز"
+            },
+            {
+              "haraj_child_tags_level_2": "بيكانتو"
+            },
+            {
+              "haraj_child_tags_level_2": "مو هافي"
+            },
+            {
+              "haraj_child_tags_level_2": "كوريس"
+            },
+            {
+              "haraj_child_tags_level_2": "سول"
+            },
+            {
+              "haraj_child_tags_level_2": "سيفيا"
+            },
+            {
+              "haraj_child_tags_level_2": "K900"
+            },
+            {
+              "haraj_child_tags_level_2": "بيجاس"
+            },
+            {
+              "haraj_child_tags_level_2": "تيلورايد"
+            },
+            {
+              "haraj_child_tags_level_2": "ستينجر"
+            },
+            {
+              "haraj_child_tags_level_2": "سيلتوس"
+            },
+            {
+              "haraj_child_tags_level_2": "نيرو"
+            },
+            {
+              "haraj_child_tags_level_2": "K5"
+            },
+            {
+              "haraj_child_tags_level_2": "سونيت"
+            },
+            {
+              "haraj_child_tags_level_2": "K8"
+            },
+            {
+              "haraj_child_tags_level_2": "تاسمان"
+            },
+            {
+              "haraj_child_tags_level_2": "ستونيك"
+            },
+            {
+              "haraj_child_tags_level_2": "كيا EV5"
+            },
+            {
+              "haraj_child_tags_level_2": "كيا EV9"
+            },
+            {
+              "haraj_child_tags_level_2": "كيا K3"
+            },
+            {
+              "haraj_child_tags_level_2": "كيا K4"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "دودج",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "تشارجر"
+            },
+            {
+              "haraj_child_tags_level_2": "جالينجر"
+            },
+            {
+              "haraj_child_tags_level_2": "دورانجو"
+            },
+            {
+              "haraj_child_tags_level_2": "كارافان"
+            },
+            {
+              "haraj_child_tags_level_2": "رام"
+            },
+            {
+              "haraj_child_tags_level_2": "نيترو"
+            },
+            {
+              "haraj_child_tags_level_2": "كاليبير"
+            },
+            {
+              "haraj_child_tags_level_2": "فيبر"
+            },
+            {
+              "haraj_child_tags_level_2": "دودج بيك أب"
+            },
+            {
+              "haraj_child_tags_level_2": "فوياجر"
+            },
+            {
+              "haraj_child_tags_level_2": "انتربيد"
+            },
+            {
+              "haraj_child_tags_level_2": "نيون"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "كرايزلر",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "M300"
+            },
+            {
+              "haraj_child_tags_level_2": "C300"
+            },
+            {
+              "haraj_child_tags_level_2": "جراند فوياجر"
+            },
+            {
+              "haraj_child_tags_level_2": "كونكود"
+            },
+            {
+              "haraj_child_tags_level_2": "كروس فاير"
+            },
+            {
+              "haraj_child_tags_level_2": "C200"
+            },
+            {
+              "haraj_child_tags_level_2": "بي تي كروزر"
+            },
+            {
+              "haraj_child_tags_level_2": "امبيريال"
+            },
+            {
+              "haraj_child_tags_level_2": "بلايموث"
+            },
+            {
+              "haraj_child_tags_level_2": "باسيفيكا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جيب",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "شيروكي"
+            },
+            {
+              "haraj_child_tags_level_2": "جراند شيروكي"
+            },
+            {
+              "haraj_child_tags_level_2": "رانجلر"
+            },
+            {
+              "haraj_child_tags_level_2": "ليبرتي"
+            },
+            {
+              "haraj_child_tags_level_2": "رينيجيد"
+            },
+            {
+              "haraj_child_tags_level_2": "كومباس"
+            },
+            {
+              "haraj_child_tags_level_2": "جلاديتور"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ميتسوبيشي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "باجيرو"
+            },
+            {
+              "haraj_child_tags_level_2": "لانسر"
+            },
+            {
+              "haraj_child_tags_level_2": "L200"
+            },
+            {
+              "haraj_child_tags_level_2": "ناتيفا"
+            },
+            {
+              "haraj_child_tags_level_2": "جالنت"
+            },
+            {
+              "haraj_child_tags_level_2": "كولت"
+            },
+            {
+              "haraj_child_tags_level_2": "ماجنا"
+            },
+            {
+              "haraj_child_tags_level_2": "سقما"
+            },
+            {
+              "haraj_child_tags_level_2": "ASX"
+            },
+            {
+              "haraj_child_tags_level_2": "اتراج"
+            },
+            {
+              "haraj_child_tags_level_2": "اكلبس كروس"
+            },
+            {
+              "haraj_child_tags_level_2": "اوتلاندر"
+            },
+            {
+              "haraj_child_tags_level_2": "سبيس ستار"
+            },
+            {
+              "haraj_child_tags_level_2": "مونتيرو"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسباندر"
+            },
+            {
+              "haraj_child_tags_level_2": "جرانديز"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "مازدا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "مازدا 6"
+            },
+            {
+              "haraj_child_tags_level_2": "CX9"
+            },
+            {
+              "haraj_child_tags_level_2": "مازدا 3"
+            },
+            {
+              "haraj_child_tags_level_2": "323"
+            },
+            {
+              "haraj_child_tags_level_2": "626"
+            },
+            {
+              "haraj_child_tags_level_2": "CX7"
+            },
+            {
+              "haraj_child_tags_level_2": "BT50"
+            },
+            {
+              "haraj_child_tags_level_2": "MPV"
+            },
+            {
+              "haraj_child_tags_level_2": "CX5"
+            },
+            {
+              "haraj_child_tags_level_2": "CX2"
+            },
+            {
+              "haraj_child_tags_level_2": "RX8"
+            },
+            {
+              "haraj_child_tags_level_2": "MX-5"
+            },
+            {
+              "haraj_child_tags_level_2": "CX3"
+            },
+            {
+              "haraj_child_tags_level_2": "مازدا 2"
+            },
+            {
+              "haraj_child_tags_level_2": "مازدا 5"
+            },
+            {
+              "haraj_child_tags_level_2": "CX30"
+            },
+            {
+              "haraj_child_tags_level_2": "CX60"
+            },
+            {
+              "haraj_child_tags_level_2": "CX90"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لاند روفر",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "رنج روفر"
+            },
+            {
+              "haraj_child_tags_level_2": "ديسكفري"
+            },
+            {
+              "haraj_child_tags_level_2": "LR2"
+            },
+            {
+              "haraj_child_tags_level_2": "ديفندر"
+            },
+            {
+              "haraj_child_tags_level_2": "LR3"
+            },
+            {
+              "haraj_child_tags_level_2": "فري لاند"
+            },
+            {
+              "haraj_child_tags_level_2": "LR4"
+            },
+            {
+              "haraj_child_tags_level_2": "ايفوك"
+            },
+            {
+              "haraj_child_tags_level_2": "فيلار"
+            },
+            {
+              "haraj_child_tags_level_2": "ديسكفري سبورت"
+            },
+            {
+              "haraj_child_tags_level_2": "رينج روفر سبورت"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ايسوزو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اسندر"
+            },
+            {
+              "haraj_child_tags_level_2": "ديماكس"
+            },
+            {
+              "haraj_child_tags_level_2": "MUX"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "كاديلاك",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اسكاليدا"
+            },
+            {
+              "haraj_child_tags_level_2": "CTS"
+            },
+            {
+              "haraj_child_tags_level_2": "فليتوود"
+            },
+            {
+              "haraj_child_tags_level_2": "DTS"
+            },
+            {
+              "haraj_child_tags_level_2": "ديفيل"
+            },
+            {
+              "haraj_child_tags_level_2": "SRX"
+            },
+            {
+              "haraj_child_tags_level_2": "STS"
+            },
+            {
+              "haraj_child_tags_level_2": "كونكورس"
+            },
+            {
+              "haraj_child_tags_level_2": "CT6"
+            },
+            {
+              "haraj_child_tags_level_2": "XT4"
+            },
+            {
+              "haraj_child_tags_level_2": "XT5"
+            },
+            {
+              "haraj_child_tags_level_2": "XT6"
+            },
+            {
+              "haraj_child_tags_level_2": "CT4"
+            },
+            {
+              "haraj_child_tags_level_2": "CT5"
+            },
+            {
+              "haraj_child_tags_level_2": "ATS"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بورش",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كايين"
+            },
+            {
+              "haraj_child_tags_level_2": "باناميرا"
+            },
+            {
+              "haraj_child_tags_level_2": "911"
+            },
+            {
+              "haraj_child_tags_level_2": "كاريرا"
+            },
+            {
+              "haraj_child_tags_level_2": "كايمن"
+            },
+            {
+              "haraj_child_tags_level_2": "بوكستر"
+            },
+            {
+              "haraj_child_tags_level_2": "توربو"
+            },
+            {
+              "haraj_child_tags_level_2": "GT"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكان"
+            },
+            {
+              "haraj_child_tags_level_2": "718"
+            },
+            {
+              "haraj_child_tags_level_2": "تايكان"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "اودي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "A8"
+            },
+            {
+              "haraj_child_tags_level_2": "A6"
+            },
+            {
+              "haraj_child_tags_level_2": "Q7"
+            },
+            {
+              "haraj_child_tags_level_2": "Q5"
+            },
+            {
+              "haraj_child_tags_level_2": "A4"
+            },
+            {
+              "haraj_child_tags_level_2": "A5"
+            },
+            {
+              "haraj_child_tags_level_2": "A7"
+            },
+            {
+              "haraj_child_tags_level_2": "S8"
+            },
+            {
+              "haraj_child_tags_level_2": "TT"
+            },
+            {
+              "haraj_child_tags_level_2": "A3"
+            },
+            {
+              "haraj_child_tags_level_2": "Q3"
+            },
+            {
+              "haraj_child_tags_level_2": "Q8"
+            },
+            {
+              "haraj_child_tags_level_2": "R8"
+            },
+            {
+              "haraj_child_tags_level_2": "RS"
+            },
+            {
+              "haraj_child_tags_level_2": "S3"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سوزوكي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "فيتارا"
+            },
+            {
+              "haraj_child_tags_level_2": "ساموراي"
+            },
+            {
+              "haraj_child_tags_level_2": "سويفت"
+            },
+            {
+              "haraj_child_tags_level_2": "جمني"
+            },
+            {
+              "haraj_child_tags_level_2": "ليانا"
+            },
+            {
+              "haraj_child_tags_level_2": "SX4"
+            },
+            {
+              "haraj_child_tags_level_2": "ارتيجا"
+            },
+            {
+              "haraj_child_tags_level_2": "بالينو"
+            },
+            {
+              "haraj_child_tags_level_2": "جراند فيتارا"
+            },
+            {
+              "haraj_child_tags_level_2": "سياز"
+            },
+            {
+              "haraj_child_tags_level_2": "سيليريو"
+            },
+            {
+              "haraj_child_tags_level_2": "APV بيك اب"
+            },
+            {
+              "haraj_child_tags_level_2": "APV فان"
+            },
+            {
+              "haraj_child_tags_level_2": "ديزاير"
+            },
+            {
+              "haraj_child_tags_level_2": "كيزاشي"
+            },
+            {
+              "haraj_child_tags_level_2": "فرونكس"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "انفنيتي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "FX"
+            },
+            {
+              "haraj_child_tags_level_2": "QX"
+            },
+            {
+              "haraj_child_tags_level_2": "انفنيتي G"
+            },
+            {
+              "haraj_child_tags_level_2": "Q"
+            },
+            {
+              "haraj_child_tags_level_2": "M"
+            },
+            {
+              "haraj_child_tags_level_2": "Q30"
+            },
+            {
+              "haraj_child_tags_level_2": "Q50"
+            },
+            {
+              "haraj_child_tags_level_2": "Q60"
+            },
+            {
+              "haraj_child_tags_level_2": "Q70"
+            },
+            {
+              "haraj_child_tags_level_2": "QX50"
+            },
+            {
+              "haraj_child_tags_level_2": "QX60"
+            },
+            {
+              "haraj_child_tags_level_2": "QX70"
+            },
+            {
+              "haraj_child_tags_level_2": "QX80"
+            },
+            {
+              "haraj_child_tags_level_2": "QX56"
+            },
+            {
+              "haraj_child_tags_level_2": "QX55"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "همر",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "H3"
+            },
+            {
+              "haraj_child_tags_level_2": "H2"
+            },
+            {
+              "haraj_child_tags_level_2": "H1"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لنكولن",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "تاون كار"
+            },
+            {
+              "haraj_child_tags_level_2": "نافيجتور"
+            },
+            {
+              "haraj_child_tags_level_2": "MKS"
+            },
+            {
+              "haraj_child_tags_level_2": "ال اس"
+            },
+            {
+              "haraj_child_tags_level_2": "كونتيننتال"
+            },
+            {
+              "haraj_child_tags_level_2": "نوتيلوس"
+            },
+            {
+              "haraj_child_tags_level_2": "افياتور"
+            },
+            {
+              "haraj_child_tags_level_2": "كورسير"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فولكس واجن",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "باسات"
+            },
+            {
+              "haraj_child_tags_level_2": "طوارق"
+            },
+            {
+              "haraj_child_tags_level_2": "جولف"
+            },
+            {
+              "haraj_child_tags_level_2": "بيتل"
+            },
+            {
+              "haraj_child_tags_level_2": "بولو"
+            },
+            {
+              "haraj_child_tags_level_2": "جيتا"
+            },
+            {
+              "haraj_child_tags_level_2": "شيروكو"
+            },
+            {
+              "haraj_child_tags_level_2": "تيجوان"
+            },
+            {
+              "haraj_child_tags_level_2": "تيرامونت"
+            },
+            {
+              "haraj_child_tags_level_2": "تي روك"
+            },
+            {
+              "haraj_child_tags_level_2": "ارتيون"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ديهاتسو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "سيريون"
+            },
+            {
+              "haraj_child_tags_level_2": "تيروس"
+            },
+            {
+              "haraj_child_tags_level_2": "ماتيريا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جيلي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "EC7"
+            },
+            {
+              "haraj_child_tags_level_2": "EC8"
+            },
+            {
+              "haraj_child_tags_level_2": "LC Panda"
+            },
+            {
+              "haraj_child_tags_level_2": "امجراند 7"
+            },
+            {
+              "haraj_child_tags_level_2": "امجراند GS"
+            },
+            {
+              "haraj_child_tags_level_2": "امجراند X7"
+            },
+            {
+              "haraj_child_tags_level_2": "بينراي"
+            },
+            {
+              "haraj_child_tags_level_2": "كولراي"
+            },
+            {
+              "haraj_child_tags_level_2": "ازكارا"
+            },
+            {
+              "haraj_child_tags_level_2": "توجيلا"
+            },
+            {
+              "haraj_child_tags_level_2": "اوكافانجو"
+            },
+            {
+              "haraj_child_tags_level_2": "مونجارو"
+            },
+            {
+              "haraj_child_tags_level_2": "بريفيس"
+            },
+            {
+              "haraj_child_tags_level_2": "جيومتري"
+            },
+            {
+              "haraj_child_tags_level_2": "ستار راي"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ميركوري",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "مونتنير"
+            },
+            {
+              "haraj_child_tags_level_2": "مارودر"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فولفو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "S 80"
+            },
+            {
+              "haraj_child_tags_level_2": "850"
+            },
+            {
+              "haraj_child_tags_level_2": "XC90"
+            },
+            {
+              "haraj_child_tags_level_2": "S 60R"
+            },
+            {
+              "haraj_child_tags_level_2": "S 40"
+            },
+            {
+              "haraj_child_tags_level_2": "960"
+            },
+            {
+              "haraj_child_tags_level_2": "S 70"
+            },
+            {
+              "haraj_child_tags_level_2": "V 70XC"
+            },
+            {
+              "haraj_child_tags_level_2": "C 70"
+            },
+            {
+              "haraj_child_tags_level_2": "S60"
+            },
+            {
+              "haraj_child_tags_level_2": "S90"
+            },
+            {
+              "haraj_child_tags_level_2": "XC40"
+            },
+            {
+              "haraj_child_tags_level_2": "XC60"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بيجو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "307"
+            },
+            {
+              "haraj_child_tags_level_2": "407"
+            },
+            {
+              "haraj_child_tags_level_2": "206"
+            },
+            {
+              "haraj_child_tags_level_2": "508"
+            },
+            {
+              "haraj_child_tags_level_2": "406"
+            },
+            {
+              "haraj_child_tags_level_2": "بارتنر"
+            },
+            {
+              "haraj_child_tags_level_2": "607"
+            },
+            {
+              "haraj_child_tags_level_2": "404"
+            },
+            {
+              "haraj_child_tags_level_2": "3008"
+            },
+            {
+              "haraj_child_tags_level_2": "301"
+            },
+            {
+              "haraj_child_tags_level_2": "5008"
+            },
+            {
+              "haraj_child_tags_level_2": "بوكسر"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسبيرت"
+            },
+            {
+              "haraj_child_tags_level_2": "بيجو2008"
+            },
+            {
+              "haraj_child_tags_level_2": "بيجو208"
+            },
+            {
+              "haraj_child_tags_level_2": "بيجو408"
+            },
+            {
+              "haraj_child_tags_level_2": "بيجو504"
+            },
+            {
+              "haraj_child_tags_level_2": "ترافلر"
+            },
+            {
+              "haraj_child_tags_level_2": "ريفتر"
+            },
+            {
+              "haraj_child_tags_level_2": "لاندتريك"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بنتلي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كونتيننتال فلاينج سبير"
+            },
+            {
+              "haraj_child_tags_level_2": "كونتيننتال GT"
+            },
+            {
+              "haraj_child_tags_level_2": "ارنيج"
+            },
+            {
+              "haraj_child_tags_level_2": "ازيور"
+            },
+            {
+              "haraj_child_tags_level_2": "كونتيننتالGTC"
+            },
+            {
+              "haraj_child_tags_level_2": "بروكلاندز كوبية"
+            },
+            {
+              "haraj_child_tags_level_2": "بنتياقا"
+            },
+            {
+              "haraj_child_tags_level_2": "مولسان"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جاكوار",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "XJ"
+            },
+            {
+              "haraj_child_tags_level_2": "X type"
+            },
+            {
+              "haraj_child_tags_level_2": "S type"
+            },
+            {
+              "haraj_child_tags_level_2": "سوفيرجن"
+            },
+            {
+              "haraj_child_tags_level_2": "ديملر"
+            },
+            {
+              "haraj_child_tags_level_2": "E pace"
+            },
+            {
+              "haraj_child_tags_level_2": "F pace"
+            },
+            {
+              "haraj_child_tags_level_2": "F type"
+            },
+            {
+              "haraj_child_tags_level_2": "I pace"
+            },
+            {
+              "haraj_child_tags_level_2": "XE"
+            },
+            {
+              "haraj_child_tags_level_2": "XF"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سوبارو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ليجاسي"
+            },
+            {
+              "haraj_child_tags_level_2": "امبريزا"
+            },
+            {
+              "haraj_child_tags_level_2": "فورستر"
+            },
+            {
+              "haraj_child_tags_level_2": "اوت باك"
+            },
+            {
+              "haraj_child_tags_level_2": "WRX"
+            },
+            {
+              "haraj_child_tags_level_2": "WRX STI"
+            },
+            {
+              "haraj_child_tags_level_2": "XV"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "MG",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "5"
+            },
+            {
+              "haraj_child_tags_level_2": "6"
+            },
+            {
+              "haraj_child_tags_level_2": "HS"
+            },
+            {
+              "haraj_child_tags_level_2": "MG RX8"
+            },
+            {
+              "haraj_child_tags_level_2": "RX5"
+            },
+            {
+              "haraj_child_tags_level_2": "ZS"
+            },
+            {
+              "haraj_child_tags_level_2": "T60"
+            },
+            {
+              "haraj_child_tags_level_2": "ام جي جي تي"
+            },
+            {
+              "haraj_child_tags_level_2": "HS PHEV"
+            },
+            {
+              "haraj_child_tags_level_2": "MG 1"
+            },
+            {
+              "haraj_child_tags_level_2": "MG 3"
+            },
+            {
+              "haraj_child_tags_level_2": "WHALE"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ZXAUTO",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ادميرال"
+            },
+            {
+              "haraj_child_tags_level_2": "جرامد تايجر"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "شانجان",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ايدو"
+            },
+            {
+              "haraj_child_tags_level_2": "CS35"
+            },
+            {
+              "haraj_child_tags_level_2": "CS75"
+            },
+            {
+              "haraj_child_tags_level_2": "CS95"
+            },
+            {
+              "haraj_child_tags_level_2": "شانجان V7"
+            },
+            {
+              "haraj_child_tags_level_2": "CS85"
+            },
+            {
+              "haraj_child_tags_level_2": "السفن"
+            },
+            {
+              "haraj_child_tags_level_2": "هنتر"
+            },
+            {
+              "haraj_child_tags_level_2": "CS35 بلس"
+            },
+            {
+              "haraj_child_tags_level_2": "CS75 بلس"
+            },
+            {
+              "haraj_child_tags_level_2": "يوني تي"
+            },
+            {
+              "haraj_child_tags_level_2": "يوني كي"
+            },
+            {
+              "haraj_child_tags_level_2": "يوني في"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "رينو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ميغان"
+            },
+            {
+              "haraj_child_tags_level_2": "فلوانس"
+            },
+            {
+              "haraj_child_tags_level_2": "سافران"
+            },
+            {
+              "haraj_child_tags_level_2": "لاغونا"
+            },
+            {
+              "haraj_child_tags_level_2": "كليو"
+            },
+            {
+              "haraj_child_tags_level_2": "تاليسمان"
+            },
+            {
+              "haraj_child_tags_level_2": "داستر"
+            },
+            {
+              "haraj_child_tags_level_2": "دوكر فان"
+            },
+            {
+              "haraj_child_tags_level_2": "سيمبول"
+            },
+            {
+              "haraj_child_tags_level_2": "كابتشر"
+            },
+            {
+              "haraj_child_tags_level_2": "كوليوس"
+            },
+            {
+              "haraj_child_tags_level_2": "ماستر"
+            },
+            {
+              "haraj_child_tags_level_2": "ميجان GT"
+            },
+            {
+              "haraj_child_tags_level_2": "ميجان RS"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بيوك",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مازيراتي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "مازيراني"
+            },
+            {
+              "haraj_child_tags_level_2": "جران"
+            },
+            {
+              "haraj_child_tags_level_2": "جيبلي"
+            },
+            {
+              "haraj_child_tags_level_2": "كواتربورتي"
+            },
+            {
+              "haraj_child_tags_level_2": "ليفانتي"
+            },
+            {
+              "haraj_child_tags_level_2": "جريكالي"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "رولز رويس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "فانتوم"
+            },
+            {
+              "haraj_child_tags_level_2": "قوست"
+            },
+            {
+              "haraj_child_tags_level_2": "داون"
+            },
+            {
+              "haraj_child_tags_level_2": "ريث"
+            },
+            {
+              "haraj_child_tags_level_2": "كولينان"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لامبورجيني",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "افنتادور"
+            },
+            {
+              "haraj_child_tags_level_2": "اوروس"
+            },
+            {
+              "haraj_child_tags_level_2": "هوراكان"
+            },
+            {
+              "haraj_child_tags_level_2": "غالاردو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "اوبل",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "استرا"
+            },
+            {
+              "haraj_child_tags_level_2": "ريكورد"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سكودا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "أوكتافيا"
+            },
+            {
+              "haraj_child_tags_level_2": "رابيد"
+            },
+            {
+              "haraj_child_tags_level_2": "سوبيرب"
+            },
+            {
+              "haraj_child_tags_level_2": "فابيا"
+            },
+            {
+              "haraj_child_tags_level_2": "كاروك"
+            },
+            {
+              "haraj_child_tags_level_2": "كودياك"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فيراري",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "488 PISTA"
+            },
+            {
+              "haraj_child_tags_level_2": "812"
+            },
+            {
+              "haraj_child_tags_level_2": "F8"
+            },
+            {
+              "haraj_child_tags_level_2": "GTC4"
+            },
+            {
+              "haraj_child_tags_level_2": "MONZA"
+            },
+            {
+              "haraj_child_tags_level_2": "Roma"
+            },
+            {
+              "haraj_child_tags_level_2": "SF90"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سيتروين",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "C3"
+            },
+            {
+              "haraj_child_tags_level_2": "C4"
+            },
+            {
+              "haraj_child_tags_level_2": "C6"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسارا"
+            },
+            {
+              "haraj_child_tags_level_2": "C2"
+            },
+            {
+              "haraj_child_tags_level_2": "C1"
+            },
+            {
+              "haraj_child_tags_level_2": "ربجنسي"
+            },
+            {
+              "haraj_child_tags_level_2": "برلنجو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "تشيري",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "QQ"
+            },
+            {
+              "haraj_child_tags_level_2": "A5 تشيري"
+            },
+            {
+              "haraj_child_tags_level_2": "ايستار"
+            },
+            {
+              "haraj_child_tags_level_2": "كوين"
+            },
+            {
+              "haraj_child_tags_level_2": "A3 تشيري"
+            },
+            {
+              "haraj_child_tags_level_2": "A1 تشيري"
+            },
+            {
+              "haraj_child_tags_level_2": "اريزو 3"
+            },
+            {
+              "haraj_child_tags_level_2": "اريزو 6"
+            },
+            {
+              "haraj_child_tags_level_2": "تيجو 2"
+            },
+            {
+              "haraj_child_tags_level_2": "تيجو 7"
+            },
+            {
+              "haraj_child_tags_level_2": "تيجو 8"
+            },
+            {
+              "haraj_child_tags_level_2": "تيجو 4"
+            },
+            {
+              "haraj_child_tags_level_2": "اريزو 5"
+            },
+            {
+              "haraj_child_tags_level_2": "اريزو 8"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سيات",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "دايو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ليجانزا"
+            },
+            {
+              "haraj_child_tags_level_2": "لانوس"
+            },
+            {
+              "haraj_child_tags_level_2": "ماتز"
+            },
+            {
+              "haraj_child_tags_level_2": "نوبيرا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ساب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "فيات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "دولتشي فيتا"
+            },
+            {
+              "haraj_child_tags_level_2": "فيات 500"
+            },
+            {
+              "haraj_child_tags_level_2": "فيات 500X"
+            },
+            {
+              "haraj_child_tags_level_2": "فيورينو"
+            },
+            {
+              "haraj_child_tags_level_2": "لينيا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سانج يونج",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اكتيون"
+            },
+            {
+              "haraj_child_tags_level_2": "موسو"
+            },
+            {
+              "haraj_child_tags_level_2": "كوراندو"
+            },
+            {
+              "haraj_child_tags_level_2": "XLV"
+            },
+            {
+              "haraj_child_tags_level_2": "تيفولي"
+            },
+            {
+              "haraj_child_tags_level_2": "ريكستون"
+            },
+            {
+              "haraj_child_tags_level_2": "توريس"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "استون مارتن",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "DB11"
+            },
+            {
+              "haraj_child_tags_level_2": "DBS"
+            },
+            {
+              "haraj_child_tags_level_2": "رابيد اس"
+            },
+            {
+              "haraj_child_tags_level_2": "فانتاج"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بروتون",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "جن2"
+            },
+            {
+              "haraj_child_tags_level_2": "بيرسونا"
+            },
+            {
+              "haraj_child_tags_level_2": "واجا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "هافال",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "هافال H2"
+            },
+            {
+              "haraj_child_tags_level_2": "هافال H6"
+            },
+            {
+              "haraj_child_tags_level_2": "هافال H9"
+            },
+            {
+              "haraj_child_tags_level_2": "جوليان"
+            },
+            {
+              "haraj_child_tags_level_2": "دارجو"
+            },
+            {
+              "haraj_child_tags_level_2": "H6 GT"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جي ايه سي GAC",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "GA3"
+            },
+            {
+              "haraj_child_tags_level_2": "GA4"
+            },
+            {
+              "haraj_child_tags_level_2": "GA8"
+            },
+            {
+              "haraj_child_tags_level_2": "GS3"
+            },
+            {
+              "haraj_child_tags_level_2": "GS4"
+            },
+            {
+              "haraj_child_tags_level_2": "GS8"
+            },
+            {
+              "haraj_child_tags_level_2": "GN6"
+            },
+            {
+              "haraj_child_tags_level_2": "GN8"
+            },
+            {
+              "haraj_child_tags_level_2": "GS5"
+            },
+            {
+              "haraj_child_tags_level_2": "GA6"
+            },
+            {
+              "haraj_child_tags_level_2": "امباو"
+            },
+            {
+              "haraj_child_tags_level_2": "ام زوم"
+            },
+            {
+              "haraj_child_tags_level_2": "امكو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جريت وول Great Wall",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ونجل5"
+            },
+            {
+              "haraj_child_tags_level_2": "ونجل6"
+            },
+            {
+              "haraj_child_tags_level_2": "ونجل7"
+            },
+            {
+              "haraj_child_tags_level_2": "باور"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فاو FAW",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "T80"
+            },
+            {
+              "haraj_child_tags_level_2": "V80"
+            },
+            {
+              "haraj_child_tags_level_2": "أولي"
+            },
+            {
+              "haraj_child_tags_level_2": "بسترن B50"
+            },
+            {
+              "haraj_child_tags_level_2": "بسترن B70"
+            },
+            {
+              "haraj_child_tags_level_2": "بسترن X80"
+            },
+            {
+              "haraj_child_tags_level_2": "T77"
+            },
+            {
+              "haraj_child_tags_level_2": "X40"
+            },
+            {
+              "haraj_child_tags_level_2": "T33"
+            },
+            {
+              "haraj_child_tags_level_2": "T99"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "BYD",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "F3"
+            },
+            {
+              "haraj_child_tags_level_2": "F5"
+            },
+            {
+              "haraj_child_tags_level_2": "F7"
+            },
+            {
+              "haraj_child_tags_level_2": "S6"
+            },
+            {
+              "haraj_child_tags_level_2": "S7"
+            },
+            {
+              "haraj_child_tags_level_2": "اتو 3"
+            },
+            {
+              "haraj_child_tags_level_2": "تشين بلس"
+            },
+            {
+              "haraj_child_tags_level_2": "سونج بلس"
+            },
+            {
+              "haraj_child_tags_level_2": "سي ليون 7"
+            },
+            {
+              "haraj_child_tags_level_2": "سيل"
+            },
+            {
+              "haraj_child_tags_level_2": "هان"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "الفا روميو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "جوليا"
+            },
+            {
+              "haraj_child_tags_level_2": "جوليتا"
+            },
+            {
+              "haraj_child_tags_level_2": "ستلفيو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "تاتا",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "زينون"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "جى ام سي JMC",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "جيتور",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "X70"
+            },
+            {
+              "haraj_child_tags_level_2": "X70S"
+            },
+            {
+              "haraj_child_tags_level_2": "X90"
+            },
+            {
+              "haraj_child_tags_level_2": "داشينج"
+            },
+            {
+              "haraj_child_tags_level_2": "جيتور T1"
+            },
+            {
+              "haraj_child_tags_level_2": "جيتور T2"
+            },
+            {
+              "haraj_child_tags_level_2": "جيتور X50"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سي ام سي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "فوتون",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "تونلاند"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "فيكتوري اوتو",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "ليفان",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "ماكسيس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "D90"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكسيس V80"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكسيس T60"
+            },
+            {
+              "haraj_child_tags_level_2": "V90"
+            },
+            {
+              "haraj_child_tags_level_2": "T70"
+            },
+            {
+              "haraj_child_tags_level_2": "G50"
+            },
+            {
+              "haraj_child_tags_level_2": "G10"
+            },
+            {
+              "haraj_child_tags_level_2": "D90 برو"
+            },
+            {
+              "haraj_child_tags_level_2": "D60"
+            },
+            {
+              "haraj_child_tags_level_2": "60 تورنيدو"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكسيس G90"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكسيس T90"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ماكلارين",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "جاك JAC",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "بايك",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "D50"
+            },
+            {
+              "haraj_child_tags_level_2": "X35"
+            },
+            {
+              "haraj_child_tags_level_2": "X7"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ80"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ40 SE"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ40 S"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ40 Plus"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ40 F"
+            },
+            {
+              "haraj_child_tags_level_2": "BJ40 C"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "دونج فينج",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "A30"
+            },
+            {
+              "haraj_child_tags_level_2": "A60 MAX"
+            },
+            {
+              "haraj_child_tags_level_2": "AX7"
+            },
+            {
+              "haraj_child_tags_level_2": "AX7 MACH"
+            },
+            {
+              "haraj_child_tags_level_2": "C31"
+            },
+            {
+              "haraj_child_tags_level_2": "C32"
+            },
+            {
+              "haraj_child_tags_level_2": "C35"
+            },
+            {
+              "haraj_child_tags_level_2": "E32"
+            },
+            {
+              "haraj_child_tags_level_2": "T5 Evo"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "اكسيد",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "TXL"
+            },
+            {
+              "haraj_child_tags_level_2": "VX"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسيد LX"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "تسلا",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "ساوايست",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "ماهيندرا",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "زوتي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "هونشي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "سمارت",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "تانك",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "تانك 300"
+            },
+            {
+              "haraj_child_tags_level_2": "تانك 500"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لينك اند كو",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "01"
+            },
+            {
+              "haraj_child_tags_level_2": "03"
+            },
+            {
+              "haraj_child_tags_level_2": "03 بلس"
+            },
+            {
+              "haraj_child_tags_level_2": "05"
+            },
+            {
+              "haraj_child_tags_level_2": "09"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لوسيد",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اير"
+            },
+            {
+              "haraj_child_tags_level_2": "جرافيتي"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "اينيوس",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "جرينادير"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "لوتس",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "هانجاي",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "حراج العقار",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "اراضي للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "شقق للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "فلل للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "شقق للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "بيوت للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "اراضي تجارية للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "عمارة للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "استراحات للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "محلات للتقبيل",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "محلات للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "عماره للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "استراحات للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "فلل للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مزارع للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "ادوار للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "بيوت للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "دور للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "شاليهات للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "غرف للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "قاعة للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "كمباوند للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "كمباوند للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مخيمات للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مزرعة للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مستودع للبيع",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مستودعات للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مكاتب للايجار",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "حراج الأجهزة",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "جوالات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ابل Apple"
+            },
+            {
+              "haraj_child_tags_level_2": "سامسونج Samsung"
+            },
+            {
+              "haraj_child_tags_level_2": "هواوي Huawei"
+            },
+            {
+              "haraj_child_tags_level_2": "سوني Sony"
+            },
+            {
+              "haraj_child_tags_level_2": "بلاك بيري BlackBerry"
+            },
+            {
+              "haraj_child_tags_level_2": "نوكيا Nokia"
+            },
+            {
+              "haraj_child_tags_level_2": "اتش تي سي htc"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "أجهزة تابلت",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ايباد iPad"
+            },
+            {
+              "haraj_child_tags_level_2": "جالكسي تاب GALAXY Tab"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "أجهزة كمبيوتر",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كمبيوتر مكتبي"
+            },
+            {
+              "haraj_child_tags_level_2": "لابتوب"
+            },
+            {
+              "haraj_child_tags_level_2": "أجهزة شبكات"
+            },
+            {
+              "haraj_child_tags_level_2": "شاشات وبرجكتر"
+            },
+            {
+              "haraj_child_tags_level_2": "طابعات وماسحات"
+            },
+            {
+              "haraj_child_tags_level_2": "ملحقات كمبيوتر"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ألعاب إلكترونية",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "نظارات VR"
+            },
+            {
+              "haraj_child_tags_level_2": "اجهزة بلاي ستيشن PS"
+            },
+            {
+              "haraj_child_tags_level_2": "العاب بلاي ستيشن PS"
+            },
+            {
+              "haraj_child_tags_level_2": "اجهزة اكس بوكس Xbox"
+            },
+            {
+              "haraj_child_tags_level_2": "العاب اكس بوكس Xbox"
+            },
+            {
+              "haraj_child_tags_level_2": "نينتندو"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "تلفزيونات وصوتيات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "تلفزيونات"
+            },
+            {
+              "haraj_child_tags_level_2": "رسيفرات"
+            },
+            {
+              "haraj_child_tags_level_2": "صوتيات"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "كاميرات تصوير",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كاميرات"
+            },
+            {
+              "haraj_child_tags_level_2": "عدسات"
+            },
+            {
+              "haraj_child_tags_level_2": "درون"
+            },
+            {
+              "haraj_child_tags_level_2": "ملحقات كاميرات"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "حسابات واشتراكات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ببجي"
+            },
+            {
+              "haraj_child_tags_level_2": "فورت نايت"
+            },
+            {
+              "haraj_child_tags_level_2": "فيفا"
+            },
+            {
+              "haraj_child_tags_level_2": "كلاش اوفكلانس"
+            },
+            {
+              "haraj_child_tags_level_2": "كلاش رويال"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات انستقرام"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات تويتر"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات تيك توك"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات سناب شات"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات فيس بوك"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات يوتيوب"
+            },
+            {
+              "haraj_child_tags_level_2": "حسابات أخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "أرقام مميزة",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ارقام مميزة من الاتصالات السعودية STC"
+            },
+            {
+              "haraj_child_tags_level_2": "ارقام مميزة من موبايلي Mobily"
+            },
+            {
+              "haraj_child_tags_level_2": "ارقام مميزة من زين Zain"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "اجهزة منزليه",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "بوتاجاز وفرن"
+            },
+            {
+              "haraj_child_tags_level_2": "ثلاجة وبرادة"
+            },
+            {
+              "haraj_child_tags_level_2": "عجانة وخلاط"
+            },
+            {
+              "haraj_child_tags_level_2": "غسالة"
+            },
+            {
+              "haraj_child_tags_level_2": "غلاية"
+            },
+            {
+              "haraj_child_tags_level_2": "قلاية"
+            },
+            {
+              "haraj_child_tags_level_2": "ماكينة قهوة"
+            },
+            {
+              "haraj_child_tags_level_2": "مايكرويف وحماصات"
+            },
+            {
+              "haraj_child_tags_level_2": "مكنسة كهربائية"
+            },
+            {
+              "haraj_child_tags_level_2": "مكواة ملابس"
+            },
+            {
+              "haraj_child_tags_level_2": "مكيف"
+            },
+            {
+              "haraj_child_tags_level_2": "اجهزة منزلية اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ال جي LG",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مايكروسوفت Microsoft",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "باناسونيك Panasonic",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "هيتاشي Hitachi",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "اجهزة غير مصنفة",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مواطير ومولدات",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "مواشي وحيوانات وطيور",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "غنم",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "غنم بربري"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم حري"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم روماني"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم سواكني"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم نجدي"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم نعيمي"
+            },
+            {
+              "haraj_child_tags_level_2": "غنم رفيدي"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات اغنام"
+            },
+            {
+              "haraj_child_tags_level_2": "منتجات اغنام"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ماعز",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ماعز بلدي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز بيشي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز جنوبي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز حجازي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز شامي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز عارضي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز هولندي"
+            },
+            {
+              "haraj_child_tags_level_2": "ماعز قزم"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ببغاء",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ببغاء امزوني"
+            },
+            {
+              "haraj_child_tags_level_2": "ببغاء كاسكو"
+            },
+            {
+              "haraj_child_tags_level_2": "ببغاء كوكاتو"
+            },
+            {
+              "haraj_child_tags_level_2": "ببغاء مكاو"
+            },
+            {
+              "haraj_child_tags_level_2": "طيور زينة"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات طيور"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "حمام",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "حمام باكستاني"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام تركي"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام زاجل"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام سوداني"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام شامي"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام صنعاني"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام فرنسي"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام مصري"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام هندي"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام هولندي"
+            },
+            {
+              "haraj_child_tags_level_2": "حمام قطيفي"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات حمام"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "قطط",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "قطط سكوتش"
+            },
+            {
+              "haraj_child_tags_level_2": "قطط شيرازي"
+            },
+            {
+              "haraj_child_tags_level_2": "قطط للتبني"
+            },
+            {
+              "haraj_child_tags_level_2": "قطط هملايا"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات قطط"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "دجاج",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "دجاج براهما"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج بلدي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج تركي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج رومي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج فارسي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج فرنسي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج فيومي"
+            },
+            {
+              "haraj_child_tags_level_2": "دجاج باكستاني"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات دواجن"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "أبل",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ابل بكار"
+            },
+            {
+              "haraj_child_tags_level_2": "ابل فحول"
+            },
+            {
+              "haraj_child_tags_level_2": "ابل قعدان"
+            },
+            {
+              "haraj_child_tags_level_2": "ابل نياق"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات الابل"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "خيل",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "خيل شعبي"
+            },
+            {
+              "haraj_child_tags_level_2": "خيل مكس"
+            },
+            {
+              "haraj_child_tags_level_2": "خيل واهو"
+            },
+            {
+              "haraj_child_tags_level_2": "خيل انجليزي"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات خيول"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "كلاب",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "كلب بتبول"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب بومرينيان"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب جولدن"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب جيرمن"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب شيتزو"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب شيواوا"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب مالتيز"
+            },
+            {
+              "haraj_child_tags_level_2": "كلب هاسكي"
+            },
+            {
+              "haraj_child_tags_level_2": "مستلزمات كلاب"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "بقر",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "بقر الماني"
+            },
+            {
+              "haraj_child_tags_level_2": "بقر بلدي"
+            },
+            {
+              "haraj_child_tags_level_2": "بقر جرسي"
+            },
+            {
+              "haraj_child_tags_level_2": "بقر سويسري"
+            },
+            {
+              "haraj_child_tags_level_2": "بقر هولندي"
+            },
+            {
+              "haraj_child_tags_level_2": "منتجات ابقار"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "أسماك وسلاحف",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اسماك"
+            },
+            {
+              "haraj_child_tags_level_2": "سلاحف"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ارانب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "بط",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "بط بكيني"
+            },
+            {
+              "haraj_child_tags_level_2": "بط شرشري"
+            },
+            {
+              "haraj_child_tags_level_2": "وز"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "سناجب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "هامستر",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "وبر",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "اثاث",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "أثاث خارجي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "أثاث مكتبي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "أدوات منزلية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "أسرة ومراتب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "تحف وديكور",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خزائن ودواليب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "طاولات وكراسي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "مجالس ومفروشات",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "وظائف",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "وظائف اداريه",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اداري وموارد بشرية"
+            },
+            {
+              "haraj_child_tags_level_2": "تسويق ومبيعات"
+            },
+            {
+              "haraj_child_tags_level_2": "خدمة عملاء"
+            },
+            {
+              "haraj_child_tags_level_2": "سكرتير"
+            },
+            {
+              "haraj_child_tags_level_2": "سياحة وفندقة"
+            },
+            {
+              "haraj_child_tags_level_2": "كاشير"
+            },
+            {
+              "haraj_child_tags_level_2": "محاسب"
+            },
+            {
+              "haraj_child_tags_level_2": "مندوب توصيل"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف اداريه اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة علاقات واعلام"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة مترجم لغات"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة محامي وقانوني"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة معقب ومخلص"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف ازياء وتجميل",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "حلاق"
+            },
+            {
+              "haraj_child_tags_level_2": "خياطة"
+            },
+            {
+              "haraj_child_tags_level_2": "كوفيره"
+            },
+            {
+              "haraj_child_tags_level_2": "مصممة ازياء"
+            },
+            {
+              "haraj_child_tags_level_2": "مودل"
+            },
+            {
+              "haraj_child_tags_level_2": "ميك اب ارتست"
+            },
+            {
+              "haraj_child_tags_level_2": "هير ستايل"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف تجميل اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف امن وسلامة",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "وظائف امنيه اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة حارس امن"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة فني سلامة"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف تعليمية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف تقنية وتصميم",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ادارة حسابات التواصل"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف تقنية اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة شبكات واتصالات"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة كاتب محتوى"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة مبرمج"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة مصمم ميديا"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف زراعة ورعي",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "راعي مواشي"
+            },
+            {
+              "haraj_child_tags_level_2": "عامل زراعي"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف زراعية اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف صناعية",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "دهان سيارات"
+            },
+            {
+              "haraj_child_tags_level_2": "سمكري"
+            },
+            {
+              "haraj_child_tags_level_2": "كهربائي سيارات"
+            },
+            {
+              "haraj_child_tags_level_2": "ميكانيكي سيارات"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف صناعية اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف طب وتمريض",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "بيطري"
+            },
+            {
+              "haraj_child_tags_level_2": "صيدلي"
+            },
+            {
+              "haraj_child_tags_level_2": "طبيب"
+            },
+            {
+              "haraj_child_tags_level_2": "فني علاج طبيعي"
+            },
+            {
+              "haraj_child_tags_level_2": "فني مساج"
+            },
+            {
+              "haraj_child_tags_level_2": "ممرض"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف طبية اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف عمارة وبناء",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "حداد"
+            },
+            {
+              "haraj_child_tags_level_2": "دهان مباني"
+            },
+            {
+              "haraj_child_tags_level_2": "فني تكييف"
+            },
+            {
+              "haraj_child_tags_level_2": "فني ديكور"
+            },
+            {
+              "haraj_child_tags_level_2": "كهربائي مباني"
+            },
+            {
+              "haraj_child_tags_level_2": "مبلط"
+            },
+            {
+              "haraj_child_tags_level_2": "مشرف مباني"
+            },
+            {
+              "haraj_child_tags_level_2": "مقاول مباني"
+            },
+            {
+              "haraj_child_tags_level_2": "مليس"
+            },
+            {
+              "haraj_child_tags_level_2": "نجار"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف بناء اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "وظيفة سباك"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف عمالة منزلية",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "جليسة ومربية اطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "سائق خاص"
+            },
+            {
+              "haraj_child_tags_level_2": "عامل منزلي"
+            },
+            {
+              "haraj_child_tags_level_2": "عاملة منزلية"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف عماله اخرى"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "وظائف مطاعم",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "باريستا"
+            },
+            {
+              "haraj_child_tags_level_2": "شيف ومعلم"
+            },
+            {
+              "haraj_child_tags_level_2": "قهوجي ومضيف"
+            },
+            {
+              "haraj_child_tags_level_2": "وظائف مطاعم اخرى"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "خدمات",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "خدمات اخرى",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات مقاولات",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات تعقيب",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات التوصيل",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات نقل العفش",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات نظافة",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات الشراء من المواقع العالمية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات قانونية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "خدمات محاسبية ومالية",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "مستلزمات شخصية",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "ساعات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "ساعات اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "ساعات رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "ساعات نسائية"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "عطورات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "عطور اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "عطور رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "عطور نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "عود وبخور"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "مستلزمات رياضية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "نظارات",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "نظارات اخرى"
+            },
+            {
+              "haraj_child_tags_level_2": "نظارات رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "نظارات نسائية"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ملابس رجالية",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "أشمغة رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسسوارات رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "ثياب رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "جاكيتات رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "شنط رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "قمصان وبناطيل رجالية"
+            },
+            {
+              "haraj_child_tags_level_2": "ملابس رياضية رجالية"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ملابس نسائية",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "اكسسوارات ومجوهرات نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "بلايز وتيشيرتات نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "تنانير وبناطيل نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "جاكيتات نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "جلابيات"
+            },
+            {
+              "haraj_child_tags_level_2": "شنط نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "عبايات"
+            },
+            {
+              "haraj_child_tags_level_2": "فساتين"
+            },
+            {
+              "haraj_child_tags_level_2": "لانجري"
+            },
+            {
+              "haraj_child_tags_level_2": "ملابس رياضية نسائية"
+            },
+            {
+              "haraj_child_tags_level_2": "ملابس نوم"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "ملابس أطفال",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "أدوات رضع"
+            },
+            {
+              "haraj_child_tags_level_2": "اكسسوارات أطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "العاب اطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "سرير وكراسي أطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "شنط الأطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "عربات أطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "مقاعد سيارة للاطفال"
+            },
+            {
+              "haraj_child_tags_level_2": "ملابس بناتي"
+            },
+            {
+              "haraj_child_tags_level_2": "ملابس ولادي"
+            }
+          ]
+        },
+        {
+          "haraj_child_tags_level_1": "هدايا",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "أمتعة سفر",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "الصحة والجمال",
+          "children_level_2": [
+            {
+              "haraj_child_tags_level_2": "العناية بالبشرة"
+            },
+            {
+              "haraj_child_tags_level_2": "العناية بالشعر"
+            },
+            {
+              "haraj_child_tags_level_2": "المكياج"
+            },
+            {
+              "haraj_child_tags_level_2": "مستحضرات أخرى"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "العاب وترفيه",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "نوادر و تراثيات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "مكتبة وفنون",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "صيد ورحلات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "اطعمة ومشروبات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "زراعة وحدائق",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "حفلات ومناسبات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "سفر وسياحة",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "شقق مخدومة",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "شاليهات للايجار",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "شريك سكن",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "مفقودات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "تعليم وتدريب",
+      "children_level_1": [
+        {
+          "haraj_child_tags_level_1": "تدريب العاب الكترونية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "تدريب رياضي",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "تعليم اسهم وعملات",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "تعليم قيادة",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "دروس خصوصية",
+          "children_level_2": []
+        },
+        {
+          "haraj_child_tags_level_1": "دورات تدريبية",
+          "children_level_2": []
+        }
+      ]
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "برمجة وتصاميم",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "مشاريع واستثمارات",
+      "children_level_1": []
+    }
+  },
+  {
+    "haraj_main_category_path": {
+      "name": "قسم غير مصنف",
+      "children_level_1": []
+    }
+  }
+]
